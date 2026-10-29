@@ -4,6 +4,8 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](./LICENSE)
 
+**下载**：[Releases](https://github.com/hui139/work-hours-ledger/releases) 页面下载 APK（Android 7.0 及以上）。
+
 | 打卡 | 记录 | 统计 |
 | :--: | :--: | :--: |
 | ![打卡](./docs/screenshots/01-clock.png) | ![记录](./docs/screenshots/02-records.png) | ![统计](./docs/screenshots/03-stats.png) |
